@@ -1,19 +1,14 @@
-# About The Project
+## About The Project
 This is a simple MAC address changer written in Python. Only available for Linux.
 
-# Installation
+## Installation
 1. Clone the repository
 ```
 git clone https://github.com/iimarky1234/MAC-Changer
 ```
 
-2. Install the requirements
-```
-python -m venv [any_name]
-source [any_name]/bin/activate
-```
 
-# Usage
+## Usage
 ```
 Usage: change_mac.py [options]
 
